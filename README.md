@@ -16,7 +16,7 @@
 You may use a text editor, such as Sublime, along with a command prompt on your device or an IDE, like VSCode, to run the program.
 
 ## Usage
-MaxNum.java file will be the file you want to run as this is the main class for the program.
+Part3.java file will be the file you want to run as this is the main class for the program.
 
 ## Project Status
 Project is: complete.
